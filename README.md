@@ -1,7 +1,5 @@
 ### Hi there, I'am Jakub👋
 
-<!--**Jakubeich/Jakubeich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔨 Programming languages I mainly use: Java, Javascript, #C, Python
 - 🔧 Tools/Frameworks I often use: [LibGDX](https://libgdx.com/), [GameMaker Studio](https://www.yoyogames.com/en/gamemaker), [Unity](https://unity.com/)
 - 🔭 Working on: [LiteCode](http://litecode.net/) and [RPG Game](https://github.com/Jakubeich/RPG-Game)
