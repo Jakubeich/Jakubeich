@@ -1,6 +1,6 @@
 ### Hi there, I'am Jakub👋
 
-I am 15 years old, I am still a high school student and I am interested in programming and game development.
+I am 16 years old, I am still a high school student and I am interested in programming and game development.
 
 - 🔨 Programming languages I mainly use: Java, Javascript, HTML, CSS and a little C#, Python, C++
 - 🔧 Tools/Frameworks I often use: [LibGDX](https://libgdx.com/), [GameMaker Studio](https://www.yoyogames.com/en/gamemaker), [Unity](https://unity.com/), [Eclipse](https://www.eclipse.org/), [Visual Studio](https://visualstudio.microsoft.com/cs/)
