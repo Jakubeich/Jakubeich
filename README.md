@@ -4,7 +4,7 @@ I am 17 years old and I am from the Czech Republic, I am high school student stu
 
 - 🔨 Programming languages I mainly use: Java, Javascript, HTML, CSS and a little C#, Python, C++
 - 🔧 Tools/Frameworks I often use: [LibGDX](https://libgdx.com/), [GameMaker Studio](https://www.yoyogames.com/en/gamemaker), [Unity](https://unity.com/), [Eclipse](https://www.eclipse.org/), [Visual Studio](https://visualstudio.microsoft.com/cs/)
-- 🔭 Working on: [LiteCode](http://litecode.net/), [Puzzled Game](https://github.com/Jakubeich/PuzzledGame) and [PlatformerGame](https://github.com/Jakubeich/PlatformerGame-libgdx)
+- 🔭 Working on: [LiteCode](http://litecode.net/)
 - 📫 How to reach me: jakubmitrega1@gmail.com\
 \
 ![Jakubeich GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubeich&include_all_commits=true)
