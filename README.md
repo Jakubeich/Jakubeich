@@ -8,6 +8,7 @@ I am 17 years old and I am from the Czech Republic, I am high school student stu
 - 📫 How to reach me: jakubmitrega1@gmail.com\
 
 My portfolio: https://jakubeich.github.io/
+
 \
 ![Jakubeich GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubeich&include_all_commits=true)
 \
