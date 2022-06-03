@@ -4,7 +4,7 @@ I am 17 years old and I am from the Czech Republic, I am high school student stu
 
 - 🔨 Programming languages I mainly use: Full Stack(Javascript, HTML, CSS and backend framework), Java and a little Python
 - 🔧 Tools/Frameworks I often use: [LibGDX](https://libgdx.com/), [GameMaker Studio](https://www.yoyogames.com/en/gamemaker), [Unity](https://unity.com/), [Eclipse](https://www.eclipse.org/), [Visual Studio](https://visualstudio.microsoft.com/cs/)
-- 🔭 Working on: [LiteCode](http://litecode.site/)
+- 🔭 Working on: 
 - 📫 How to reach me: jakubmitrega1@gmail.com\
 
 My portfolio: https://jakubeich.github.io/
