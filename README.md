@@ -17,6 +17,7 @@ I am 17 years old and I am from the Czech Republic, I am high school student stu
 - Apps for primary schools 📚‍💻
 - Great experience in game development 🎮
 - More than 1 year of experience and experience in large-scale web application development
+- Practice and experience with workshops in primary schools
 
 ### Languages and Tools:
 
