@@ -4,6 +4,10 @@ I am 17 years old and I am from the Czech Republic, I am high school student stu
 
 My portfolio: https://jakubeich.github.io/
 
+### Languages and Tools:
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,sass,java,python,flask,jquery,vue,mysql,c#)](https://skills.thijs.gg)
+
 \
 ![Jakubeich GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubeich&include_all_commits=true)
 \
