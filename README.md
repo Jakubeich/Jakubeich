@@ -28,5 +28,7 @@ I am 17 years old and I am from the Czech Republic, I am high school student stu
 \
 ![Jakubeich GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubeich&include_all_commits=true)
 
+[![Jakubeich Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakubeich)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/mitrega_jakub
 [email]: mailto:jakubmitrega1@gmail.com
