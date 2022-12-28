@@ -1,5 +1,7 @@
 ## Hi there, I'am Jakub👋
 
+[![](https://visitcount.itsvg.in/api?id=Jakubeich&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ### About me:
 I am 17 years old and I am from the Czech Republic, I am high school student studying the specialization of programming and network administration but I am probably most interested in programming.
 
