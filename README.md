@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=Jakubeich&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### About me:
-I am 18 years old and I am from the Czech Republic, I am high school student studying the specialization of programming and network administration but I am probably most interested in programming.
+I am an 18-year-old passionate developer from the Czech Republic. As a high school student majoring in programming and network administration, I've always found my heart gravitating towards programming. There's just something about turning ideas into code that excites me!
 
 ### Connect with me:
 
@@ -16,10 +16,9 @@ I am 18 years old and I am from the Czech Republic, I am high school student stu
 - more than 1 year member of [RenderWaves s.r.o](https://www.renderwaves.com/)
 
 ### I work/have worked or Experience:
-- Apps for primary schools 📚‍💻
-- Great experience in game development 🎮
-- More than 1 year of experience and experience in large-scale web application development
-- Practice and experience with workshops in primary schools
+- Web Development: Over a year of experience in developing large-scale web applications, with a knack for crafting efficient and scalable solutions.
+- Educational Outreach: Conducted workshops in primary schools, inspiring the next generation to delve into the world of programming.
+- Game Development: Dive deep into the realm of game development, creating immersive experiences for players. 🎮
 
 ### Languages and Tools:
 
