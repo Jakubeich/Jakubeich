@@ -1,6 +1,6 @@
 ## Hi there, I'am Jakub👋
 
-[![](https://visitcount.itsvg.in/api?id=Jakubeich&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=jakubeich)
 
 ### About me:
 I am an 18 year old fullstack developer, programmer 👨‍💻. I am interested in programming and developing web applications or websites, although I have a degree in computer networking 🛜. I'm currently working as a fullstack developer at Devx, and at work I'm working with friends and colleagues on a large-scale educational project.
@@ -15,9 +15,11 @@ I am an 18 year old fullstack developer, programmer 👨‍💻. I am interested
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,django,docker,flask,github,graphql,mysql,nextjs,postgres,postman,py,react,tailwind,ts,visualstudio,vscode,vue)](https://skillicons.dev)
 
+### Status
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+
 <hr>
 
-\
 ![Jakubeich GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubeich&include_all_commits=true)
 
 [twitter]: https://twitter.com/mitrega_jakub
