@@ -9,7 +9,6 @@ I am an 19 year old fullstack developer and programmer 👨‍💻. I am interes
 - Web Development: Decent experience in developing large-scale web applications, with a knack for crafting efficient and scalable solutions. 🖥️
 - Educational Outreach: Conducted workshops in primary schools, inspiring the next generation to delve into the world of programming. 🖥️📚
 - Networking: High school level experience (4 years experience, theory and practice), advanced knowledge of computer networks, their administration and security 🛜
-- Game Development: Dive deep into the realm of game development, creating immersive experiences for players. 🎮
 
 ### Languages and Tools what I use:
 
