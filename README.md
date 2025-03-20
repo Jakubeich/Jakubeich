@@ -14,9 +14,6 @@ I am an 19 year old fullstack developer and programmer 👨‍💻. I am interes
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,django,docker,flask,github,graphql,mysql,nextjs,postgres,postman,py,react,tailwind,ts,visualstudio,vscode,vue,nestjs)](https://skillicons.dev)
 
-### Status
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-
 <hr>
 
 ![Jakubeich GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubeich&include_all_commits=true)
