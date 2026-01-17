@@ -16,8 +16,6 @@ I am an 20 year old fullstack developer and programmer 👨‍💻. I am interes
 
 <hr>
 
-![Jakubeich GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakubeich&theme=merko&include_all_commits=true)
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Jakubeich&theme=merko&hide_border=true)
 
 [twitter]: https://twitter.com/mitrega_jakub
