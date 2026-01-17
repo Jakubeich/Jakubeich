@@ -12,7 +12,7 @@ I am an 20 year old fullstack developer and programmer 👨‍💻. I am interes
 
 ### Languages and Tools what I use:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,django,docker,flask,github,graphql,mysql,nextjs,postgres,postman,py,react,tailwind,ts,visualstudio,vscode,vue,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,django,docker,flask,github,graphql,mysql,nextjs,postgres,postman,py,react,tailwind,ts,visualstudio,vscode,vue,nestjs,elasticsearch,kubernetes)](https://skillicons.dev)
 
 <hr>
 
