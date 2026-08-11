@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Jakubeich.Jakubeich)
 
 ### About me:
-I am an 20 year old fullstack developer and programmer 👨‍💻. I am interested in programming and developing web applications or websites, although I have a degree in computer networking 🛜. I'm currently working as a fullstack developer at Devx, and at work I'm working with friends and colleagues on a large-scale educational project.
+I am a <!-- AGE_START -->21<!-- AGE_END -->-year-old full-stack developer and programmer 👨‍💻. I am interested in programming and developing web applications or websites, although I have a degree in computer networking 🛜. I'm currently working as a full-stack developer at Devx, and at work I'm working with friends and colleagues on a large-scale educational project.
 
 ### I work/have worked or Experience:
 - Web Development: Decent experience in developing large-scale web applications, with a knack for crafting efficient and scalable solutions. 🖥️
